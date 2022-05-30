@@ -1,0 +1,76 @@
+id: ID3A8842E
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:15:15.031520'
+last_modified: '2022-05-30T22:15:15.031525'
+parser: null
+source_metadata:
+  title: Khenpo Gangshar Wangpo
+  language: zh
+  description: 'Texts by the Dzogchen teacher Khenpo Gangshar Wangpo (mkhan po gang
+    shar dbang po, 1925–1958/9), who is known especially for his role as the root
+    teacher of Chögyam Trungpa:'
+  volume:
+    fA2E5:
+      title: A Way of Settling into the Realization of Mind’s Essence
+      base_file: fA2E5.txt
+      order: 1
+      parent: Advice
+    f9E17:
+      title: A Song of Advice for Gok Zangden
+      base_file: f9E17.txt
+      order: 2
+      parent: Dzogchen
+    fA426:
+      title: A Song to Introduce the Unmistaken View of the Great Perfection
+      base_file: fA426.txt
+      order: 3
+      parent: Dzogchen
+    fD134:
+      title: 'Naturally Liberating Whatever You Meet: A Concise Instruction for Realizing
+        the Nature of Mind'
+      base_file: fD134.txt
+      order: 4
+      parent: Dzogchen
+    f63B1:
+      title: 'Naturally Liberating Whatever You Meet: Instructions to Guide You along
+        the Profound Path'
+      base_file: f63B1.txt
+      order: 5
+      parent: Dzogchen
+    f54E4:
+      title: Verses to Remove Hindrances and Sustain Realization of the Nature of
+        Mind
+      base_file: f54E4.txt
+      order: 6
+      parent: Dzogchen
+    fA944:
+      title: 'Vomiting Gold: A Pith Instruction in the Form of Advice for the Diligent
+        Practitioner, the Excellent Atsang'
+      base_file: fA944.txt
+      order: 7
+      parent: Dzogchen
+    fD843:
+      title: 'Guru Yoga: The Consummate Blessing'
+      base_file: fD843.txt
+      order: 8
+      parent: Guru Yoga
+    fAAE9:
+      title: 'From the Mahāmudrā Preliminary Practices: Continuous Integration with
+        Ground, Path, and Fruition'
+      base_file: fAAE9.txt
+      order: 9
+      parent: Mahāmudrā
+    fF684:
+      title: Prayer to Pacify Military Conflict
+      base_file: fF684.txt
+      order: 10
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
